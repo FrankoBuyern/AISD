@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AISD.iml" filepath="$PROJECT_DIR$/.idea/AISD.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/LinkedLisr/LinkedLisr.iml" filepath="$PROJECT_DIR$/untitled/LinkedLisr/LinkedLisr.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
